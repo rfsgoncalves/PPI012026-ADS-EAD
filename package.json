@@ -1,0 +1,21 @@
+{
+  "name": "ppi012026-ads-ead",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido na primeira aula ao vivo da disciplina PPI (NodeJS+express)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfsgoncalves/PPI012026-ADS-EAD.git"
+  },
+  "author": "Renato Gonçalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rfsgoncalves/PPI012026-ADS-EAD/issues"
+  },
+  "homepage": "https://github.com/rfsgoncalves/PPI012026-ADS-EAD#readme"
+}
