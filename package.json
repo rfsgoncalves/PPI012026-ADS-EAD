@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rfsgoncalves/PPI012026-ADS-EAD/issues"
   },
-  "homepage": "https://github.com/rfsgoncalves/PPI012026-ADS-EAD#readme"
+  "homepage": "https://github.com/rfsgoncalves/PPI012026-ADS-EAD#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
